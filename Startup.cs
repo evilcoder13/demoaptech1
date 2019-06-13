@@ -13,7 +13,7 @@ using Microsoft.Extensions.Options;
 
 namespace duanmoi
 {
-    public class Startup
+    public class Startup1
     {
         public Startup(IConfiguration configuration)
         {
